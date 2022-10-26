@@ -20,5 +20,6 @@ J'ai aussi assister au démontage et remontage d'un serveur.
 
 __Remarque:__
 
-Vous pourriez après un cours (vous compté peut-être le faire), envoyé la diapo utilisé pour le cours théorique à la fin de la journée
+
+La salle n'était pas très adapté au démontage d'autant de Tour car ca demande pas mal d'espaces pour pas échanger les composants mais je sais que c'est quelque chose à voir avec l'administration
 
