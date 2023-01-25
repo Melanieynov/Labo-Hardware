@@ -1,11 +1,12 @@
 # __Compte-rendu journée 25/01/2023 :__
 <br>
 
-## Ce que j'ai ont à fait:
+## Ce qu'on à fait:
 
 - install boot iso windows 10 
 - install boot iso ubuntu sur PC qu'on à remonté les autre fois
 - point anecdote
+- (travail perso)
 
 ## Ce que j'ai appris:
 
