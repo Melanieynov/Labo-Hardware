@@ -12,4 +12,3 @@
 
 -lors du boot *rappel de comment on fait avec les partitions (supp tout et en recréer une nouvelle, on demarre sur la principale)
 
-
